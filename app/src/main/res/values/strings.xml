@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectSoftwareEngineering</string>
+    <string name="register_string"><u>Register</u></string>
+    <string name="register_login"><u>Login</u></string>
+    <string name="change_profile"><u>Change Profile</u></string>
+    <string name="change_description"><u>Tap to change description</u></string>
+</resources>
